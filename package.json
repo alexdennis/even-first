@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "generate-hunt": "tsx scripts/generate-hunt/generate.ts"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,9 @@
   },
   "homepage": "https://github.com/alexdennis/even-first#readme",
   "devDependencies": {
+    "@types/node": "^26.6.5",
+    "dotenv": "^18.0.9",
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "vite": "^8.2.2"
   },

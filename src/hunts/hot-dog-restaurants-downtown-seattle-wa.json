@@ -1,0 +1,64 @@
+{
+  "id": "hot-dog-restaurants-downtown-seattle-wa",
+  "title": "Hot Dog Restaurants — Downtown Seattle, WA",
+  "theme": "Hot Dog Restaurants",
+  "locationLabel": "Downtown Seattle, WA",
+  "landmarks": [
+    {
+      "id": "nola-hot-dogs",
+      "name": "Nola Hot Dogs",
+      "lat": 47.6115905,
+      "lng": -122.3369536,
+      "address": "Westlake, Seattle, WA 98101, USA"
+    },
+    {
+      "id": "deez-dogz",
+      "name": "Deez Dogz",
+      "lat": 47.612966300000004,
+      "lng": -122.3327467,
+      "address": "801 Pine St, Seattle, WA 98101, USA"
+    },
+    {
+      "id": "dog-in-the-park",
+      "name": "Dog In the Park",
+      "lat": 47.610956699999996,
+      "lng": -122.33671500000001,
+      "address": "1520 4th Ave, Seattle, WA 98101, USA"
+    },
+    {
+      "id": "the-frankfurter",
+      "name": "The Frankfurter",
+      "lat": 47.604560299999996,
+      "lng": -122.33942879999998,
+      "address": "Pier 55, 1101 Alaskan Wy, Seattle, WA 98104, USA"
+    },
+    {
+      "id": "chris-s-chili-dogs",
+      "name": "Chris's Chili Dogs",
+      "lat": 47.6015571,
+      "lng": -122.33331799999999,
+      "address": "111 Yesler Wy Yy, Seattle, WA 98104, USA"
+    },
+    {
+      "id": "pioneer-grill-hotdogs",
+      "name": "Pioneer Grill Hotdogs",
+      "lat": 47.5946287,
+      "lng": -122.33395119999999,
+      "address": "902 1st Ave S, Seattle, WA 98134, USA"
+    },
+    {
+      "id": "hawk-dogs",
+      "name": "Hawk Dogs",
+      "lat": 47.6143368,
+      "lng": -122.32051789999998,
+      "address": "1500 Broadway, Seattle, WA 98122, USA"
+    },
+    {
+      "id": "bonnie-b-s-peppers-pickles-n-hotdogs",
+      "name": "Bonnie B's Peppers Pickles N Hotdogs",
+      "lat": 47.6089057,
+      "lng": -122.34055699999999,
+      "address": "1500 Pike Pl #15, Seattle, WA 98101, USA"
+    }
+  ]
+}

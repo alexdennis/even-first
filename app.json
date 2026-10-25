@@ -5,6 +5,8 @@
   "edition": "202601",
   "min_sdk_version": "0.0.14",
   "entrypoint": "index.html",
-  "permissions": [],
+  "permissions": [
+    { "name": "location", "desc": "Checks whether you're near the current hunt landmark to mark it found." }
+  ],
   "supported_languages": ["en"]
 }

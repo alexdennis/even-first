@@ -1,0 +1,39 @@
+{
+  "id": "sample-seattle-landmarks",
+  "title": "Seattle Landmarks (Sample)",
+  "theme": "Famous Landmarks",
+  "locationLabel": "Seattle, WA",
+  "landmarks": [
+    {
+      "id": "pike-place-market",
+      "name": "Pike Place Market",
+      "lat": 47.6097,
+      "lng": -122.3422,
+      "address": "85 Pike St, Seattle, WA 98101",
+      "hint": "The original farmers market, est. 1907."
+    },
+    {
+      "id": "space-needle",
+      "name": "Space Needle",
+      "lat": 47.6205,
+      "lng": -122.3493,
+      "address": "400 Broad St, Seattle, WA 98109",
+      "hint": "Built for the 1962 World's Fair."
+    },
+    {
+      "id": "seattle-great-wheel",
+      "name": "Seattle Great Wheel",
+      "lat": 47.6060,
+      "lng": -122.3425,
+      "address": "1301 Alaskan Way, Seattle, WA 98101",
+      "radiusMeters": 100
+    },
+    {
+      "id": "chihuly-garden-and-glass",
+      "name": "Chihuly Garden and Glass",
+      "lat": 47.6212,
+      "lng": -122.3508,
+      "address": "305 Harrison St, Seattle, WA 98109"
+    }
+  ]
+}
